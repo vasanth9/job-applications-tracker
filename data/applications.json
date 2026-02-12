@@ -11,5 +11,56 @@
         "interviewDate": null,
         "offerDate": null,
         "rejectedDate": null
+    },
+    {
+        "company": "Accenture",
+        "role": "Custom Software Engineer",
+        "appliedDate": "2026-02-12",
+        "status": "Applied",
+        "link": "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5218364-S1924298_en&title=Custom+Software+Engineer",
+        "notes": "",
+        "location": " Bengaluru , India",
+        "portal": "Mani",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },
+    {
+        "company": "UBS",
+        "role": "CSoftware Engineer - React / Fullstack",
+        "appliedDate": "2026-02-12",
+        "status": "Applied",
+        "link": "https://jobs.ubs.com/TGnewUI/ApplyWithPreLoad?partnerid=25008&siteid=5012&bruid=%5EIsvUacFdtCIBrlWNMImJYQGRKmo%2FJ7m%2BFH8xq3Vh%2ByM%3D&reqid=336598&localeid=1033&tqid=2048&aipid=0&pageid=0&noback=&fromSM=true&ShowNewPolicy=False&wftype=4#applicationDetail",
+        "notes": "",
+        "location": "Bengaluru , India",
+        "portal": "Mani",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    }, {
+        "company": "UBS",
+        "role": "CSoftware Engineer - React / Fullstack",
+        "appliedDate": "2026-02-12",
+        "status": "Applied",
+        "link": "https://jobs.ubs.com/TGnewUI/ApplyWithPreLoad?partnerid=25008&siteid=5012&bruid=%5EIsvUacFdtCIBrlWNMImJYQGRKmo%2FJ7m%2BFH8xq3Vh%2ByM%3D&reqid=336598&localeid=1033&tqid=2048&aipid=0&pageid=0&noback=&fromSM=true&ShowNewPolicy=False&wftype=4#applicationDetail",
+        "notes": "Test email link came",
+        "location": "Bengaluru , India",
+        "portal": "Mani",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    }
+    , {
+        "company": "IBM",
+        "role": "Application Developer-Experience Front End",
+        "appliedDate": "2026-02-12",
+        "status": "Applied",
+        "link": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=74984&source=WEB_Search_INDIA",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "Mani",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
     }
 ]
