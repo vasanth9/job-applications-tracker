@@ -1,0 +1,54 @@
+[
+    {
+        "company": "Innovate Solutions Inc.",
+        "role": "Product Manager",
+        "status": "Interviewing",
+        "link": "https://innovatesolutions.com/careers/pm",
+        "notes": "Had a great first interview with Hiring Manager.",
+        "location": "New York, NY",
+        "portal": "Indeed",
+        "appliedDate": "2026-02-01",
+        "interviewDate": "2026-02-10",
+        "offerDate": null,
+        "rejectedDate": null
+    },
+    {
+        "company": "Example Tech Co.",
+        "role": "Software Engineer",
+        "status": "Applied",
+        "link": "https://exampletech.com/jobs/se",
+        "notes": "Initial application submitted online.",
+        "location": "Remote",
+        "portal": "LinkedIn",
+        "appliedDate": "2026-02-12",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },
+    {
+        "company": "Data Driven Corp",
+        "role": "Data Analyst",
+        "status": "Offer",
+        "link": "https://datadrivencorp.com/jobs/da",
+        "notes": "Received an offer after the final round.",
+        "location": "San Francisco, CA",
+        "portal": "Glassdoor",
+        "appliedDate": "2026-01-20",
+        "interviewDate": "2026-02-05",
+        "offerDate": "2026-02-11",
+        "rejectedDate": null
+    },
+    {
+        "company": "Creative Minds",
+        "role": "UX Designer",
+        "status": "Rejected",
+        "link": "https://creativeminds.com/jobs/ux",
+        "notes": "Unfortunately, did not pass the portfolio review.",
+        "location": "Austin, TX",
+        "portal": "AngelList",
+        "appliedDate": "2026-01-15",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": "2026-01-25"
+    }
+]
