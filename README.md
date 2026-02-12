@@ -9,6 +9,7 @@ A simple, modern, and responsive web application to track your job applications.
 *   **Detailed View:** Click on an application to see detailed information, including dates, location, notes, and a link to the original job posting.
 *   **Mobile Responsive:** The application is fully responsive and provides a great user experience on both desktop and mobile devices.
 *   **Modal Job Posting:** View job postings directly within the application in a convenient modal window.
+*   **Application Trends:** Visualize your application trends over time with a line chart, with options to filter by date range and status.
 *   **Data-driven:** The application is powered by a simple `applications.json` file, making it easy to manage your application data.
 
 ## Getting Started

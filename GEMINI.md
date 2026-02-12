@@ -8,9 +8,9 @@ This project is a modern, responsive job application tracker built with vanilla 
 
 The application is designed with a three-pane, email-style layout:
 
-*   **Sidebar (Navigation):** A left-hand sidebar allows users to filter applications by their status: "All", "Applied", "Interviewing", "Offer", and "Rejected".
-*   **List Pane:** The middle pane displays a scrollable list of job applications, sorted by the most recent activity date. Each item in the list shows the company name and the role.
-*   **Detail Pane:** The right-hand pane displays the detailed information of the selected application. This includes all relevant dates, location, notes, and a button to open the original job posting in an iframe modal.
+*   **Sidebar (Navigation):** A left-hand sidebar allows users to filter applications by their status ("All", "Applied", "Interviewing", "Offer", "Rejected") or view the analytics page.
+*   **Main Pane:** The main content area displays either the list of job applications or the analytics view, based on the sidebar selection.
+*   **Detail Pane:** When viewing applications, the right-hand pane displays the detailed information of the selected application.
 
 On mobile devices, the layout adapts to a single-pane view, with the sidebar and detail pane accessible as sliding overlays.
 
@@ -34,9 +34,16 @@ The application's data is stored in `data/applications.json`. The agent should t
 }
 ```
 
-## Sorting Logic
+## Analytics View
 
-The applications in the list pane are sorted in descending order based on the most recent date available for each application. The order of precedence for the dates is: `rejectedDate`, `offerDate`, `interviewDate`, `appliedDate`.
+The analytics view provides insights into the user's job application activity. It consists of two main parts:
+
+1.  **Summary Bar Charts:** Bar charts that show a summary of application statuses for "Today", "This Week", and "This Month".
+2.  **Application Trends Line Chart:** An interactive line chart that visualizes the number of applications over time. The user can filter the chart by a date range and by application status.
+
+## External Libraries
+
+*   **Chart.js:** Used to render the line chart in the analytics view. The library is loaded via a CDN in `index.html`.
 
 ## Running the Application
 
