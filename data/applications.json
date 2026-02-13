@@ -50,5 +50,54 @@
         "interviewDate": null,
         "offerDate": null,
         "rejectedDate": null
+    } ,
+    , {
+        "company": "Capgemini",
+        "role": "ReactJS developer (412236)",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://www.capgemini.com/in-en/jobs/412236-en_GB_SAPBTP",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "Naukari",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    }, {
+        "company": "Capgemini",
+        "role": "Senior Software Engineer",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://careers.capgemini.com/job/Hyderabad-Senior-Software-Engineer/1278475101/?from=email&refid=32209147101&utm_source=J2WEmail&source=2&eid=219901-202608130908-35596536501&locale=en_GB",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "Naukari",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },{
+        "company": "Accenture",
+        "role": "Web Developer",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://www.accenture.com/in-en/careers/jobdetails?id=ATCI-5376553-S1970429_en&title=Web+Developer&SRC=RECNau",
+        "notes": "",
+        "location": "Benguluru, India",
+        "portal": "Naukari",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },{
+        "company": "TCS",
+        "role": "React JS Developer with Redux",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://ibegin.tcsapps.com/candidate/jobs/396029J",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "Naukari",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
     }
 ]
