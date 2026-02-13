@@ -50,8 +50,7 @@
         "interviewDate": null,
         "offerDate": null,
         "rejectedDate": null
-    } ,
-    , {
+    } ,{
         "company": "Capgemini",
         "role": "ReactJS developer (412236)",
         "appliedDate": "2026-02-13",
