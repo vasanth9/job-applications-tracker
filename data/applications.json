@@ -99,5 +99,65 @@
         "interviewDate": null,
         "offerDate": null,
         "rejectedDate": null
+    },{
+        "company": "JPC - 379",
+        "role": "Frontend Developer",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://techstalwartsolution.com/career.html?job_id=z5G7h3l6a1kMvyS65NP3c7RSSY1z2JL_IcEZa9kIqYo=",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "Naukari",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },{
+        "company": "Virtusa",
+        "role": "React Js Developer",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://www.virtusa.com/careers/in/chennai/core-tech-java/react-js-developer/creq240600",
+        "notes": "",
+        "location": "Chennai, India",
+        "portal": "Virtusa",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },{
+        "company": "Apple",
+        "role": "React Js Developer",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://jobs.apple.com/en-us/details/200626860/Frontend-Engineer-React-Javascript-",
+        "notes": "",
+        "location": "Bangluru, India",
+        "portal": "Virtusa",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },{
+        "company": "Persistant",
+        "role": "UI Developer",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://careers.persistent.com/jobview/ui-developer-india-ui-development-202410161527127?source=linkedin&medium=PremiumJobPosting",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "LinkedIN",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
+    },{
+        "company": "Volvo",
+        "role": "Professional Software Engineer - React,UI,Frontend",
+        "appliedDate": "2026-02-13",
+        "status": "Applied",
+        "link": "https://jobs.volvogroup.com/job/Bangalore-Professional-Software-Engineer-React%252CUI%252CFrontend-562122/1332658955/?feedId=361555&utm_source=linkedin",
+        "notes": "",
+        "location": "Hyderabad, India",
+        "portal": "LinkedIN",
+        "interviewDate": null,
+        "offerDate": null,
+        "rejectedDate": null
     }
 ]
